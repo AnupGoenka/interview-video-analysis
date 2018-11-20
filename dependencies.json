@@ -1,0 +1,5 @@
+{
+    "shape_predictor_68_face_landmarks.dat" : "gs://isc-video-interview-analysis/shape_predictor_68_face_landmarks.dat",
+    "xgb_model1.sav" : "gs://isc-video-interview-analysis/xgb_model1.sav"
+}
+
